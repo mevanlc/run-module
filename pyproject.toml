@@ -1,6 +1,6 @@
 [project]
 name = "run-module"
-version = "0.1.0"
+version = "0.1.1"
 description = "A thin wrapper around runpy.run_module for use with uvx, pipx, etc."
 readme = "README.md"
 authors = [
